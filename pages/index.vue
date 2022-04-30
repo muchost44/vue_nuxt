@@ -83,13 +83,5 @@
 <script>
 export default {
   name: 'IndexPage',
-  pwa: {
-    name: 'IndexPage',
-    short_name: 'IP',
-    lang: 'id',
-    useWebmanifestExtension: false,
-    start_url: '/',
-    theme_color: '#ff6666',
-  },
 }
 </script>
